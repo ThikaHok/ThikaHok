@@ -1,6 +1,2 @@
-### Hello there :smile:
-
-My name is Puthika Hok.
-- I am a bachelor student at Fort Hay State University and American University of Phnom Penh.
-- Cyber security enthusiast
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThikaHok)](https://github.com/anuraghazra/github-readme-stats)
 
