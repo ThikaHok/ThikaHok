@@ -1,2 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thikahok&layout=compact)
+<h1 align="center">~$ whoami</h1>
 
+```bash
+> Cyber Enthusiast | Terminal Dweller | Curious by Default
